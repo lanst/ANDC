@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="Images/slots/" kind="src" path="bitbucket demo project/src"/>
+	<classpathentry kind="lib" path="bitbucket demo project/acm.jar" sourcepath="bitbucket demo project/acm.zip"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
