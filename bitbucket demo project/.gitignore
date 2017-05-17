@@ -1,0 +1,13 @@
+# Basics #
+/bin/
+/.settings/
+.project
+.classpath
+
+# Directories #
+/build/
+target/
+ 
+# OS Files #
+.DS_Store
+
